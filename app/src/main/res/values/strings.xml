@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">KauLempung</string>
+    <string name="judul_registrasi">Buat Akun Baru</string>
+    <string name="tulis_nama">Nama lengkap</string>
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="field_alamat">Alamat anda</string>
+    <string name="label_alamat">Alamat Lengkap</string>
+    <string name="label_telepon">Telepon</string>
+    <string name="field_no_telepon">No Telepon</string>
+    <string name="label_email">Email</string>
+    <string name="field_email_anda">Email anda</string>
+    <string name="label_password">Password</string>
+    <string name="field_password">Password</string>
+    <string name="label_ketik_ulang_password">Ketik Ulang Password</string>
+    <string name="field_ketik_ulang_password">Ketik ulang password</string>
+    <string name="tombol_daftar">DAFTAR</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="label_username">Username</string>
+    <string name="field_username">Username</string>
+    <string name="label_tanggal_lahir">Tanggal lahir</string>
+    <string name="title_activity_login">Masuk</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email/username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="error_invalid_email">Email salah</string>
+    <string name="error_invalid_password">Password terlalu pendek</string>
+    <string name="error_incorrect_password">Password salah</string>
+    <string name="error_field_required">Field harus diisi</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
